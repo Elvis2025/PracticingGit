@@ -10,3 +10,11 @@ body {
     text-align: center;
     font-weight: bold;
 }
+
+.create-new-branch {
+    color: rebeccapurple;
+    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-weight: bold;
+}
